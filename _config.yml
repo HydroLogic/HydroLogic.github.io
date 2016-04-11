@@ -4,13 +4,17 @@ rogue: true
 github: https://github.com/HydroLogic
 about: I am a hydrologist located in Chicago. I focus on geospatial analytics of natural catastrophes. This is my attempt to focus my work...
 urls:
+    - text: projects
+      url: /projects/
+    - text: blog
+      url: /blog/
+    - text: random notes
+      url: https://twitter.com/Hydro_Logic
     - text: resume
       url: data/Resumev4.html
     - text: github
       url: https://github.com/HydroLogic
     - text: twitter
-      url: https://twitter.com/Hydro_Logic
-    - text:
       url: https://twitter.com/Hydro_Logic
 baseurl:
 permalink: blog/:year/:month/:title
